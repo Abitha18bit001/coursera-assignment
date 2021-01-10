@@ -57,7 +57,8 @@ right:0;
 		width:33.33%;
 	}
 }
-@media(min-width: 768px)and(max-width:991px){
+@media (min-width: 768px) and (max-width:991px)
+{
 	.col-md-6, .col-md-12{
 		float:left;
 		position:relative;}
