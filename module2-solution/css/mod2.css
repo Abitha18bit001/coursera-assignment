@@ -58,6 +58,9 @@ right:0;
 		width: 50%;
 	}
 	.col-md-12{
-		width: 100%
+		width: 100%;
 	}
 }
+@media (max-width:767px){
+	.col-sm-12{
+		width:100%;}}
